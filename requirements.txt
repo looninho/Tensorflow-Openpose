@@ -1,6 +1,6 @@
 #argparse
 lmdb
-#matplotlib
+matplotlib
 scipy
 #git+https://github.com/ppwwyyxx/tensorpack.git
 tensorpack
